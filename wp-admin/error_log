@@ -1,0 +1,140 @@
+[27-Jan-2024 05:28:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/websit19/kyblearningcenter.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/websit19/kyblearningcenter.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/websit19/kyblearningcenter.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/websit19/kyblearningcenter.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/websit19/kyblearningcenter.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/websit19/kyblearningcenter.com/wp-content/plugins/elementor-pro/modules/forms/actions/email.php(335): wp_mail()
+#5 /home/websit19/kyblearningcenter.com/wp-content/plugins/elementor-pro/modules/forms/classes/ajax-handler.php(159): ElementorPro\Modules\Forms\Actions\Email->run()
+#6 /home/websit19/kyblearningcenter.com/wp-includes/class-wp-hook.php(324): ElementorPro\Modules\Forms\Classes\Ajax_Handler->ajax_send_form()
+#7 /home/websit19/kyblearningcenter.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#8 /home/websit19/kyblearningcenter.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#9 /home/websit19/kyblearningcenter.com/wp-admin/admin-ajax.php(203): do_action()
+#10 {main}
+  thrown in /home/websit19/kyblearningcenter.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[27-Jan-2024 05:29:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/websit19/kyblearningcenter.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/websit19/kyblearningcenter.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/websit19/kyblearningcenter.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/websit19/kyblearningcenter.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/websit19/kyblearningcenter.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/websit19/kyblearningcenter.com/wp-content/plugins/elementor-pro/modules/forms/actions/email.php(335): wp_mail()
+#5 /home/websit19/kyblearningcenter.com/wp-content/plugins/elementor-pro/modules/forms/classes/ajax-handler.php(159): ElementorPro\Modules\Forms\Actions\Email->run()
+#6 /home/websit19/kyblearningcenter.com/wp-includes/class-wp-hook.php(324): ElementorPro\Modules\Forms\Classes\Ajax_Handler->ajax_send_form()
+#7 /home/websit19/kyblearningcenter.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#8 /home/websit19/kyblearningcenter.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#9 /home/websit19/kyblearningcenter.com/wp-admin/admin-ajax.php(203): do_action()
+#10 {main}
+  thrown in /home/websit19/kyblearningcenter.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[27-Jan-2024 05:29:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/websit19/kyblearningcenter.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/websit19/kyblearningcenter.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/websit19/kyblearningcenter.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/websit19/kyblearningcenter.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/websit19/kyblearningcenter.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/websit19/kyblearningcenter.com/wp-content/plugins/elementor-pro/modules/forms/actions/email.php(335): wp_mail()
+#5 /home/websit19/kyblearningcenter.com/wp-content/plugins/elementor-pro/modules/forms/classes/ajax-handler.php(159): ElementorPro\Modules\Forms\Actions\Email->run()
+#6 /home/websit19/kyblearningcenter.com/wp-includes/class-wp-hook.php(324): ElementorPro\Modules\Forms\Classes\Ajax_Handler->ajax_send_form()
+#7 /home/websit19/kyblearningcenter.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#8 /home/websit19/kyblearningcenter.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#9 /home/websit19/kyblearningcenter.com/wp-admin/admin-ajax.php(203): do_action()
+#10 {main}
+  thrown in /home/websit19/kyblearningcenter.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[27-Jan-2024 05:29:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/websit19/kyblearningcenter.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/websit19/kyblearningcenter.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/websit19/kyblearningcenter.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/websit19/kyblearningcenter.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/websit19/kyblearningcenter.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/websit19/kyblearningcenter.com/wp-content/plugins/elementor-pro/modules/forms/actions/email.php(335): wp_mail()
+#5 /home/websit19/kyblearningcenter.com/wp-content/plugins/elementor-pro/modules/forms/classes/ajax-handler.php(159): ElementorPro\Modules\Forms\Actions\Email->run()
+#6 /home/websit19/kyblearningcenter.com/wp-includes/class-wp-hook.php(324): ElementorPro\Modules\Forms\Classes\Ajax_Handler->ajax_send_form()
+#7 /home/websit19/kyblearningcenter.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#8 /home/websit19/kyblearningcenter.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#9 /home/websit19/kyblearningcenter.com/wp-admin/admin-ajax.php(203): do_action()
+#10 {main}
+  thrown in /home/websit19/kyblearningcenter.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[27-Jan-2024 05:29:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/websit19/kyblearningcenter.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/websit19/kyblearningcenter.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/websit19/kyblearningcenter.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/websit19/kyblearningcenter.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/websit19/kyblearningcenter.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/websit19/kyblearningcenter.com/wp-content/plugins/elementor-pro/modules/forms/actions/email.php(335): wp_mail()
+#5 /home/websit19/kyblearningcenter.com/wp-content/plugins/elementor-pro/modules/forms/classes/ajax-handler.php(159): ElementorPro\Modules\Forms\Actions\Email->run()
+#6 /home/websit19/kyblearningcenter.com/wp-includes/class-wp-hook.php(324): ElementorPro\Modules\Forms\Classes\Ajax_Handler->ajax_send_form()
+#7 /home/websit19/kyblearningcenter.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#8 /home/websit19/kyblearningcenter.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#9 /home/websit19/kyblearningcenter.com/wp-admin/admin-ajax.php(203): do_action()
+#10 {main}
+  thrown in /home/websit19/kyblearningcenter.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[27-Jan-2024 05:32:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/websit19/kyblearningcenter.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/websit19/kyblearningcenter.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/websit19/kyblearningcenter.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/websit19/kyblearningcenter.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/websit19/kyblearningcenter.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/websit19/kyblearningcenter.com/wp-content/plugins/elementor-pro/modules/forms/actions/email.php(335): wp_mail()
+#5 /home/websit19/kyblearningcenter.com/wp-content/plugins/elementor-pro/modules/forms/classes/ajax-handler.php(159): ElementorPro\Modules\Forms\Actions\Email->run()
+#6 /home/websit19/kyblearningcenter.com/wp-includes/class-wp-hook.php(324): ElementorPro\Modules\Forms\Classes\Ajax_Handler->ajax_send_form()
+#7 /home/websit19/kyblearningcenter.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#8 /home/websit19/kyblearningcenter.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#9 /home/websit19/kyblearningcenter.com/wp-admin/admin-ajax.php(203): do_action()
+#10 {main}
+  thrown in /home/websit19/kyblearningcenter.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[27-Jan-2024 05:32:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/websit19/kyblearningcenter.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/websit19/kyblearningcenter.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/websit19/kyblearningcenter.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/websit19/kyblearningcenter.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/websit19/kyblearningcenter.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/websit19/kyblearningcenter.com/wp-content/plugins/elementor-pro/modules/forms/actions/email.php(335): wp_mail()
+#5 /home/websit19/kyblearningcenter.com/wp-content/plugins/elementor-pro/modules/forms/classes/ajax-handler.php(159): ElementorPro\Modules\Forms\Actions\Email->run()
+#6 /home/websit19/kyblearningcenter.com/wp-includes/class-wp-hook.php(324): ElementorPro\Modules\Forms\Classes\Ajax_Handler->ajax_send_form()
+#7 /home/websit19/kyblearningcenter.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#8 /home/websit19/kyblearningcenter.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#9 /home/websit19/kyblearningcenter.com/wp-admin/admin-ajax.php(203): do_action()
+#10 {main}
+  thrown in /home/websit19/kyblearningcenter.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[27-Jan-2024 05:32:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/websit19/kyblearningcenter.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/websit19/kyblearningcenter.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/websit19/kyblearningcenter.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/websit19/kyblearningcenter.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/websit19/kyblearningcenter.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/websit19/kyblearningcenter.com/wp-content/plugins/elementor-pro/modules/forms/actions/email.php(335): wp_mail()
+#5 /home/websit19/kyblearningcenter.com/wp-content/plugins/elementor-pro/modules/forms/classes/ajax-handler.php(159): ElementorPro\Modules\Forms\Actions\Email->run()
+#6 /home/websit19/kyblearningcenter.com/wp-includes/class-wp-hook.php(324): ElementorPro\Modules\Forms\Classes\Ajax_Handler->ajax_send_form()
+#7 /home/websit19/kyblearningcenter.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#8 /home/websit19/kyblearningcenter.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#9 /home/websit19/kyblearningcenter.com/wp-admin/admin-ajax.php(203): do_action()
+#10 {main}
+  thrown in /home/websit19/kyblearningcenter.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[27-Jan-2024 05:33:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/websit19/kyblearningcenter.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/websit19/kyblearningcenter.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/websit19/kyblearningcenter.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/websit19/kyblearningcenter.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/websit19/kyblearningcenter.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/websit19/kyblearningcenter.com/wp-content/plugins/elementor-pro/modules/forms/actions/email.php(335): wp_mail()
+#5 /home/websit19/kyblearningcenter.com/wp-content/plugins/elementor-pro/modules/forms/classes/ajax-handler.php(159): ElementorPro\Modules\Forms\Actions\Email->run()
+#6 /home/websit19/kyblearningcenter.com/wp-includes/class-wp-hook.php(324): ElementorPro\Modules\Forms\Classes\Ajax_Handler->ajax_send_form()
+#7 /home/websit19/kyblearningcenter.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#8 /home/websit19/kyblearningcenter.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#9 /home/websit19/kyblearningcenter.com/wp-admin/admin-ajax.php(203): do_action()
+#10 {main}
+  thrown in /home/websit19/kyblearningcenter.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[27-Jan-2024 05:33:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/websit19/kyblearningcenter.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/websit19/kyblearningcenter.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/websit19/kyblearningcenter.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/websit19/kyblearningcenter.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/websit19/kyblearningcenter.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/websit19/kyblearningcenter.com/wp-content/plugins/elementor-pro/modules/forms/actions/email.php(335): wp_mail()
+#5 /home/websit19/kyblearningcenter.com/wp-content/plugins/elementor-pro/modules/forms/classes/ajax-handler.php(159): ElementorPro\Modules\Forms\Actions\Email->run()
+#6 /home/websit19/kyblearningcenter.com/wp-includes/class-wp-hook.php(324): ElementorPro\Modules\Forms\Classes\Ajax_Handler->ajax_send_form()
+#7 /home/websit19/kyblearningcenter.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#8 /home/websit19/kyblearningcenter.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#9 /home/websit19/kyblearningcenter.com/wp-admin/admin-ajax.php(203): do_action()
+#10 {main}
+  thrown in /home/websit19/kyblearningcenter.com/wp-includes/PHPMailer/PHPMailer.php on line 874
